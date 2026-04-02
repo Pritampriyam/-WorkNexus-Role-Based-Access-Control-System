@@ -1,7 +1,7 @@
 # HIRENIXA - Freelance & Digital Services Marketplace
 
 AI-powered platform connecting students and professionals with freelancers, services, and career opportunities.
-
+delpoyed url :   https://work-nexus-role-based-access-contro.vercel.app/
 ## 🚀 Features
 
 - **Jobs Board** - Full-time roles, internships, and freelance opportunities
