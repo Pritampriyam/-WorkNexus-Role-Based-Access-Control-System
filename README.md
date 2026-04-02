@@ -1,7 +1,21 @@
-# work-nexus - Freelance & Digital Services Marketplace
+# 🌐 WorkNexus – Role-Based Access Control System
 
 AI-powered platform connecting students and professionals with freelancers, services, and career opportunities.
-delpoyed url :   https://work-nexus-role-based-access-contro.vercel.app/
+
+🔗 **Live Demo (Render):**
+https://worknexus-role-based-access-control.onrender.com
+
+🔗 **Live Demo (Vercel):**
+https://work-nexus-role-based-access-contro.vercel.app/
+
+---
+
+## 👨‍💻 Portfolio
+
+🔗 https://developer-portfolio-react.vercel.app/
+
+
+
 ## 🚀 Features
 
 - **Jobs Board** - Full-time roles, internships, and freelance opportunities
