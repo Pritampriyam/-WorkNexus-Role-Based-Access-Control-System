@@ -13,7 +13,7 @@ const SuccessMetrics = () => {
       icon: TrendingUp,
       number: "95%",
       label: "Success Rate",
-      detail: "Join HIRENIXA Premium Today",
+      detail: "Join workNexus Premium Today",
     },
     {
       icon: Users,
@@ -38,7 +38,7 @@ const SuccessMetrics = () => {
     >
       <div className="text-center mb-12">
         <h2 className="text-4xl md:text-5xl font-display font-bold mb-4">
-          🚀 Why Choose <span className="text-gradient-primary">HIRENIXA</span>?
+          🚀 Why Choose <span className="text-gradient-primary">workNexus</span>?
         </h2>
         <p className="text-xl text-muted-foreground">
           Join thousands of successful students and professionals on our

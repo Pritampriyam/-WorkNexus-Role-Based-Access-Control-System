@@ -134,7 +134,7 @@ const Jobs = () => {
 
   // Load jobs from localStorage on mount
   useEffect(() => {
-    const saved = localStorage.getItem("hirenixa_jobs");
+    const saved = localStorage.getItem("worknexus_jobs");
     if (saved) {
       try {
         setJobs(JSON.parse(saved));
@@ -146,7 +146,7 @@ const Jobs = () => {
 
   // Save jobs to localStorage whenever they change
   useEffect(() => {
-    localStorage.setItem("hirenixa_jobs", JSON.stringify(jobs));
+    localStorage.setItem("worknexus_jobs", JSON.stringify(jobs));
   }, [jobs]);
 
   const handleAddJob = () => {
@@ -165,7 +165,7 @@ const Jobs = () => {
       difficulty: "Intermediate" as const,
       applicants: 0,
       visitors: 455,
-      applyUrl: "https://apply.hirenixa.com/",
+      applyUrl: "https://apply.worknexus.com/",
     };
     setJobs((prev) => [newJob, ...prev]);
     setEditingId(newJob.id);

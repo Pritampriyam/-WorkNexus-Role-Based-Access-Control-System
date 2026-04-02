@@ -13,7 +13,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Zap className="h-6 w-6 text-primary" />
-              <span className="font-display font-bold text-xl">HIRENIXA</span>
+              <span className="font-display font-bold text-xl">workNexus</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed font-medium mb-4">
               Empowering Your Tech Journey Into Reality
@@ -25,11 +25,11 @@ const Footer = () => {
                 Contact Info 📞
               </h4>
               <a
-                href="mailto:contact@hirenixa.com"
+                href="mailto:contact@worknexus.com"
                 className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
               >
                 <Mail className="h-4 w-4" />
-                <span>contact@hirenixa.com</span>
+                <span>contact@worknexus.com</span>
               </a>
               <a
                 href="tel:+918962306037"
@@ -153,7 +153,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4 mb-4">
             <p className="text-sm text-muted-foreground">
-              © 2025 HIRENIXA. All rights reserved.
+              © 2025 workNexus. All rights reserved.
             </p>
             <div className="flex items-center gap-6">
               <Link

@@ -49,7 +49,7 @@ export const JobCard = ({
   applicants = Math.floor(Math.random() * 150) + 20,
   visitors = 455,
   difficulty = "Intermediate",
-  applyUrl = "https://apply.hirenixa.com/",
+  applyUrl = "https://apply.worknexus.com/",
   onEdit,
   onDelete,
 }: JobCardProps) => {

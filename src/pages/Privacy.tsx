@@ -7,7 +7,7 @@ const Privacy = () => {
     {
       title: "Introduction",
       content:
-        "HIRENIXA ('we', 'us', 'our', or 'Company') operates the website. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.",
+        "workNexus ('we', 'us', 'our', or 'Company') operates the website. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.",
     },
     {
       title: "Information Collection And Use",
@@ -17,7 +17,7 @@ const Privacy = () => {
     {
       title: "Use Of Data",
       content:
-        "HIRENIXA uses the collected data for various purposes: to provide and maintain our Service, to notify you about changes to our Service, to allow you to participate in interactive features when you choose, to provide customer support, to gather analysis or valuable information so that we can improve our Service, and to monitor the usage of our Service.",
+        "workNexus uses the collected data for various purposes: to provide and maintain our Service, to notify you about changes to our Service, to allow you to participate in interactive features when you choose, to provide customer support, to gather analysis or valuable information so that we can improve our Service, and to monitor the usage of our Service.",
     },
     {
       title: "Security Of Data",
@@ -86,7 +86,7 @@ const Privacy = () => {
               </p>
               <div className="space-y-2">
                 <p className="text-foreground">
-                  <strong>Email:</strong> privacy@hirenixa.com
+                  <strong>Email:</strong> privacy@worknexus.com
                 </p>
                 <p className="text-foreground">
                   <strong>Address:</strong> Bangalore, India

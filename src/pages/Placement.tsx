@@ -70,7 +70,7 @@ const Placement = () => {
 
   // Load from localStorage
   useEffect(() => {
-    const savedCompanies = localStorage.getItem("hirenixa_placement_companies");
+    const savedCompanies = localStorage.getItem("worknexus_placement_companies");
     if (savedCompanies) {
       try {
         setCompanies(JSON.parse(savedCompanies));
@@ -79,7 +79,7 @@ const Placement = () => {
       }
     }
 
-    const savedServices = localStorage.getItem("hirenixa_placement_services");
+    const savedServices = localStorage.getItem("worknexus_placement_services");
     if (savedServices) {
       try {
         const parsed = JSON.parse(savedServices);
@@ -98,7 +98,7 @@ const Placement = () => {
   // Save to localStorage
   useEffect(() => {
     localStorage.setItem(
-      "hirenixa_placement_companies",
+      "worknexus_placement_companies",
       JSON.stringify(companies),
     );
   }, [companies]);
@@ -109,7 +109,7 @@ const Placement = () => {
       ...s,
       icon: s.icon.name || "FileText",
     }));
-    localStorage.setItem("hirenixa_placement_services", JSON.stringify(toSave));
+    localStorage.setItem("worknexus_placement_services", JSON.stringify(toSave));
   }, [services]);
 
   const handleAddMaterial = () => {

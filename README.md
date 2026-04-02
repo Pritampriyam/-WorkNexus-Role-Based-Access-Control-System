@@ -1,4 +1,4 @@
-# HIRENIXA - Freelance & Digital Services Marketplace
+# work-nexus - Freelance & Digital Services Marketplace
 
 AI-powered platform connecting students and professionals with freelancers, services, and career opportunities.
 delpoyed url :   https://work-nexus-role-based-access-contro.vercel.app/
@@ -10,7 +10,7 @@ delpoyed url :   https://work-nexus-role-based-access-contro.vercel.app/
 - **Freelancers** - Browse and hire top-rated freelancers
 - **Placement Assistance** - Company-wise preparation and mock interviews
 - **Research Help** - Paper formatting, citations, and plagiarism detection
-HIRENIXA is a full-featured frontend application built with React, TypeScript, Tailwind CSS, and Vite. It is designed to be a modern marketplace where students and professionals can discover freelancing services, browse job opportunities, find academic projects, and access placement and research support.
+workNexus is a full-featured frontend application built with React, TypeScript, Tailwind CSS, and Vite. It is designed to be a modern marketplace where students and professionals can discover freelancing services, browse job opportunities, find academic projects, and access placement and research support.
 
 ## 🌟 Project Overview
 
@@ -61,7 +61,7 @@ This project is a complete UI application for a digital services marketplace, in
 From the project root directory:
 
 ```bash
-cd E:/Development/Project/HIRENIXA-main/HIRENIXA-main
+cd E:/Development/Project/work-nexus-main
 npm install
 ```
 

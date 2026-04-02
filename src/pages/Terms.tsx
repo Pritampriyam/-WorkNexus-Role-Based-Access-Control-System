@@ -7,7 +7,7 @@ const Terms = () => {
     {
       title: "Acceptance of Terms",
       content:
-        "By accessing and using HIRENIXA, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.",
+        "By accessing and using workNexus, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.",
     },
     {
       title: "User Accounts",
@@ -17,22 +17,22 @@ const Terms = () => {
     {
       title: "User Responsibilities",
       content:
-        "You agree to use HIRENIXA only for lawful purposes and in a way that does not infringe upon the rights of others or restrict their use and enjoyment. You agree to comply with all laws, rules, and regulations applicable to your use of the service.",
+        "You agree to use workNexus only for lawful purposes and in a way that does not infringe upon the rights of others or restrict their use and enjoyment. You agree to comply with all laws, rules, and regulations applicable to your use of the service.",
     },
     {
       title: "Intellectual Property Rights",
       content:
-        "Unless otherwise stated, HIRENIXA and/or its licensors own the intellectual property rights for all material on the website. All intellectual property rights are reserved.",
+        "Unless otherwise stated, workNexus and/or its licensors own the intellectual property rights for all material on the website. All intellectual property rights are reserved.",
     },
     {
       title: "Limitation of Liability",
       content:
-        "In no event shall HIRENIXA, nor any of its officers, directors and employees, be liable for anything arising out of or in any way connected with your use of this website. This includes, without limitation, liability for lost revenue, lost profits, lost business or anticipated savings.",
+        "In no event shall workNexus, nor any of its officers, directors and employees, be liable for anything arising out of or in any way connected with your use of this website. This includes, without limitation, liability for lost revenue, lost profits, lost business or anticipated savings.",
     },
     {
       title: "Modifications to Terms",
       content:
-        "HIRENIXA may revise these terms of service for the website at any time without notice. By using this website, you are agreeing to be bound by the then current version of these terms of service.",
+        "workNexus may revise these terms of service for the website at any time without notice. By using this website, you are agreeing to be bound by the then current version of these terms of service.",
     },
   ];
 
@@ -87,10 +87,10 @@ const Terms = () => {
                 contact us at:
               </p>
               <a
-                href="mailto:legal@hirenixa.com"
+                href="mailto:legal@worknexus.com"
                 className="text-primary hover:underline font-medium"
               >
-                legal@hirenixa.com
+                legal@worknexus.com
               </a>
             </motion.div>
           </div>

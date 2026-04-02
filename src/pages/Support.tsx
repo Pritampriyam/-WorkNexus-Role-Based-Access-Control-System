@@ -14,7 +14,7 @@ const Support = () => {
   const faqs = [
     {
       q: "How do I create a freelancer account?",
-      a: "Sign up on HIRENIXA, complete your profile with skills and experience, and start bidding on projects.",
+      a: "Sign up on workNexus, complete your profile with skills and experience, and start bidding on projects.",
     },
     {
       q: "What are the platform fees?",
@@ -48,7 +48,7 @@ const Support = () => {
     {
       icon: Mail,
       title: "Email Support",
-      desc: "support@hirenixa.com",
+      desc: "support@worknexus.com",
       availability: "Response within 24 hours",
     },
     {

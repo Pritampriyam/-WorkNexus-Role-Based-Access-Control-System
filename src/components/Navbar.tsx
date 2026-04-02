@@ -103,7 +103,7 @@ const Navbar = () => {
           className="flex items-center gap-2"
         >
           <Zap className="h-5 w-5 text-primary" />
-          <span className="font-display font-bold text-lg">HIRENIXA</span>
+          <span className="font-display font-bold text-lg">workNexus</span>
         </button>
 
         <div className="hidden md:flex items-center gap-6">

@@ -46,11 +46,11 @@ const About = () => {
             className="max-w-3xl mx-auto text-center mb-16"
           >
             <h1 className="text-5xl md:text-6xl font-display font-bold mb-6">
-              About <span className="text-gradient-primary">HIRENIXA</span>
+              About <span className="text-gradient-primary">workNexus</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
               We're building the future of work by connecting talent with
-              opportunity. HIRENIXA is a comprehensive platform for students,
+              opportunity. workNexus is a comprehensive platform for students,
               professionals, and businesses to collaborate, learn, and grow
               together.
             </p>
@@ -115,7 +115,7 @@ const About = () => {
             <h2 className="text-3xl font-display font-bold mb-6">Our Story</h2>
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                HIRENIXA was founded with a simple vision: to democratize access
+                workNexus was founded with a simple vision: to democratize access
                 to opportunities. We noticed a gap in the market where students
                 and professionals struggled to find meaningful work, and
                 businesses struggled to find the right talent.
@@ -128,7 +128,7 @@ const About = () => {
                 career.
               </p>
               <p>
-                Today, HIRENIXA is more than just a marketplace. It's a
+                Today, workNexus is more than just a marketplace. It's a
                 community where innovation thrives, mentorship flourishes, and
                 success stories are born every day. We're just getting started,
                 and we invite you to be part of our journey.

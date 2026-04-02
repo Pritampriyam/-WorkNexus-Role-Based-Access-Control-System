@@ -122,7 +122,7 @@ const Login = () => {
 
               <div className="mt-6 pt-6 border-t border-border">
                 <p className="text-xs text-muted-foreground text-center">
-                  <strong>Admin Access:</strong> admin@hirenixa.com / admin@123
+                  <strong>Admin Access:</strong> admin@worknexus.com / admin@123
                 </p>
               </div>
             </div>

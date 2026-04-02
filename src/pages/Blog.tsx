@@ -71,7 +71,7 @@ const Blog = () => {
             className="max-w-3xl mx-auto text-center mb-12"
           >
             <h1 className="text-5xl md:text-6xl font-display font-bold mb-6">
-              HIRENIXA <span className="text-gradient-primary">Blog</span>
+              workNexus <span className="text-gradient-primary">Blog</span>
             </h1>
             <p className="text-xl text-muted-foreground mb-8">
               Tips, trends, and stories from the freelancing world.

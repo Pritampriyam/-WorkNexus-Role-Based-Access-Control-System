@@ -42,10 +42,10 @@ const API = () => {
             className="max-w-3xl mx-auto text-center mb-16"
           >
             <h1 className="text-5xl md:text-6xl font-display font-bold mb-6">
-              HIRENIXA <span className="text-gradient-primary">API</span>
+              workNexus <span className="text-gradient-primary">API</span>
             </h1>
             <p className="text-xl text-muted-foreground">
-              Integrate HIRENIXA into your applications with our comprehensive
+              Integrate workNexus into your applications with our comprehensive
               API.
             </p>
           </motion.div>
@@ -80,7 +80,7 @@ const API = () => {
                   Base URL
                 </h3>
                 <code className="block bg-secondary p-3 rounded text-xs font-mono text-foreground">
-                  https://api.hirenixa.com/v1
+                  https://api.worknexus.com/v1
                 </code>
               </div>
 
@@ -178,7 +178,7 @@ const API = () => {
                 href="#"
                 className="text-primary hover:underline font-medium flex items-center gap-1"
               >
-                docs.hirenixa.com <span className="text-xl">→</span>
+                docs.worknexus.com <span className="text-xl">→</span>
               </a>
             </div>
           </motion.div>

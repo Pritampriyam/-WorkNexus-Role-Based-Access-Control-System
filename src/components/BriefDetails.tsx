@@ -3,7 +3,7 @@ import { Briefcase, Users, Zap, Shield } from "lucide-react";
 
 // Whatsapp API Endpoint
 const WHATSAPP_API_ENDPOINT =
-  "https://api.whatsapp.com/send/?phone=918962306037&text&type=phone_number&app_absent=0";
+  "https://api.whatsapp.com/send/?phone=919006248209&text&type=phone_number&app_absent=0";
 
 const BriefDetails = () => {
   const details = [
@@ -43,7 +43,7 @@ const BriefDetails = () => {
           className="text-center mb-14"
         >
           <h2 className="text-4xl md:text-5xl font-display font-bold mb-4">
-            Why Choose <span className="text-gradient-primary">HIRENIXA</span>
+            Why Choose <span className="text-gradient-primary">workNexus</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Empowering your tech journey with reliable services and verified

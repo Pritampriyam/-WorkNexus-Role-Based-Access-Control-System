@@ -53,7 +53,7 @@ const Signup = () => {
                   Create Account
                 </h1>
                 <p className="text-muted-foreground">
-                  Join HIRENIXA and start your journey
+                  Join workNexus and start your journey
                 </p>
               </div>
 

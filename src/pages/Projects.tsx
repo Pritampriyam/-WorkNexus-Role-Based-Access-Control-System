@@ -125,7 +125,7 @@ const Projects = () => {
 
   // Load projects from localStorage on mount
   useEffect(() => {
-    const saved = localStorage.getItem("hirenixa_projects");
+    const saved = localStorage.getItem("worknexus_projects");
     if (saved) {
       setProjects(JSON.parse(saved));
     }
@@ -133,7 +133,7 @@ const Projects = () => {
 
   // Save projects to localStorage whenever they change
   useEffect(() => {
-    localStorage.setItem("hirenixa_projects", JSON.stringify(projects));
+    localStorage.setItem("worknexus_projects", JSON.stringify(projects));
   }, [projects]);
 
   const filtered = projects.filter((p) => {

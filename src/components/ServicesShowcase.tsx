@@ -309,7 +309,7 @@ const ServicesShowcase = () => {
 
   // Load Services from localStorage
   useEffect(() => {
-    const saved = localStorage.getItem("hirenixa_services");
+    const saved = localStorage.getItem("worknexus_services");
     if (saved) {
       try {
         const parsed = JSON.parse(saved);
@@ -331,7 +331,7 @@ const ServicesShowcase = () => {
       ...s,
       icon: s.icon.name || "Globe", // Save icon name
     }));
-    localStorage.setItem("hirenixa_services", JSON.stringify(toSave));
+    localStorage.setItem("worknexus_services", JSON.stringify(toSave));
   }, [services]);
 
   const handleEditService = (service: any, index: number) => {

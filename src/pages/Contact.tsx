@@ -11,7 +11,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "support@hirenixa.com",
+      value: "support@worknexus.com",
       desc: "We respond within 24 hours",
     },
     {

@@ -8,7 +8,7 @@ const Documentation = () => {
     {
       icon: BookOpen,
       title: "Getting Started",
-      desc: "Learn the basics and get up and running with HIRENIXA in minutes.",
+      desc: "Learn the basics and get up and running with workNexus in minutes.",
       link: "#",
     },
     {
@@ -45,7 +45,7 @@ const Documentation = () => {
               <span className="text-gradient-primary">Documentation</span>
             </h1>
             <p className="text-xl text-muted-foreground">
-              Everything you need to know about HIRENIXA. Guides, API docs, and
+              Everything you need to know about workNexus. Guides, API docs, and
               tutorials.
             </p>
           </motion.div>

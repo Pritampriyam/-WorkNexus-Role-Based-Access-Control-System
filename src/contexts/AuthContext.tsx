@@ -26,7 +26,7 @@ interface AuthContextType {
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
 
 // Admin credentials (in production, this should be in a secure database)
-const ADMIN_EMAIL = "admin@hirenixa.com";
+const ADMIN_EMAIL = "admin@worknexus.com";
 const ADMIN_PASSWORD = "admin@123";
 
 export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
